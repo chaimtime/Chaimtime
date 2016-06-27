@@ -1,0 +1,38 @@
+# Site settings
+title: ChaimTime
+author: Chaim Cohen
+name: ChaimTime # your name
+email: chaim@chaimtime.com # your email address
+description: "Math/Computer Science Teacher From New Jersey. Tech Geek and Costco Lover."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chaimtime.com" # the base hostname & protocol for your site
+twitter_username: chaimtime # your Twitter username
+github_username: chaimtime # your Github username
+facebook_username: ChaimCohen # your facebook username
+google_username: +ChaimCohen
+linkedin_username: cohenh
+keybase_username: ChaimCohen
+
+
+
+timezone: America/New_York
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+highlighter: rouge
+#emoji-images-path: ./images/emoji
+category_dir: /blog/categories
+#permalink: /blog/:year/:month/:day/:title/
+paginate: 3
+paginate_path: "blog/page/:num/"
+
+exclude: [/Gemfile, /Gemfile.lock, /Rakefile, /README.md, LICENSE]
+gems: ["jekyll-paginate"]
+google-analytics: UA-460249-1 # add it if you have one
+
+#skillstree: false # turn on or off the skills tree in about page
+
+# Build settings
+#permalink: none
+#markdown: kramdown

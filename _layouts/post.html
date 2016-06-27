@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+  <header class="post-header">
+
+    <center><div class="post-title" itemprop="name headline">{{ page.title }}</div>
+
+		<div class="post-meta"><i class="fa fa-calendar-o"></i>  {{ page.date | date: '%B %d, %Y' }}
+
+		{% if page.author %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-user-secret"></i> {{ page.author }}
+        {% endif %}
+		
+	
+
+        {% if page.tags %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-tag"></i>
+        {% for tag in page.tags %}
+		<a class="post-tags-item" href="/tags#{{ tag }}">{{tag}}</a>
+        {% endfor %}
+	{% endif %}</div>
+    </center>
+    
+</header>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post-content">
+    <center>
+	{% if page.subtitle %}
+	<p>{{ page.subtitle }}</p>
+	{% endif %}
+    </center>
+	
+</div>
+
+<div id="category"></div>
+
+<div class="post-content" itemprop="articleBody">
+    {{ content }}
+</div>
+
+<div>
+	{% if page.finished %}
+	<div class="eof"></div>
+	{% else %}
+	<div class="tbc"></div>
+	{% endif %}
+</div>
+
+{% include share.html %}
+
+{% include disqus.html %}
+
+</article>

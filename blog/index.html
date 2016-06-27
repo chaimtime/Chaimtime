@@ -1,0 +1,47 @@
+---
+layout: page
+title: Blog
+subtitle:  <a href="/archive">Archives</a> &nbsp;&nbsp;•&nbsp;&nbsp;<a href="/categories">Categories</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="/tags">Tags</a> 
+
+---
+
+
+
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+ <h2 class="post-title">
+    <a href="{{post.url | prepend:site.baseurl | prepend:site.url}}">{{ post.title }}</a>
+  </h2>
+  
+  
+	<i class="fa fa-calendar"></i>&nbsp; <time>{{ post.date | date: '%B %d, %Y' }}</time>&nbsp;&nbsp;•&nbsp;&nbsp; 
+  	<i class="fa fa-user-secret"></i>{% if post.author %}{{ post.author }}{% endif %}&nbsp;&nbsp;•&nbsp;&nbsp; 
+  	<i class = "fa fa-tag"></i>
+    {% for tag in post.tags %}
+    <a href="{{site.baseurl | prepend:site.url}}/tags/#{{ tag }}">{{ tag }}</a> </li>
+    {% endfor %}
+
+
+  <div class="post-descr">
+    <p>       {{ post.content}}    </p>
+  </div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+ <!--{% include pagination.html %}-->
+
+

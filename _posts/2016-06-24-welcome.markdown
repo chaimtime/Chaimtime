@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Welcome to Chaimtime"
+subtitle: "Version 7.0"
+Date: 2016-06-24
+author: Chaim
+category: Management
+tags: blog management security education
+finished: false
+---
+
+
+
+I started Chaimtime in 2002 as a blog. It was the new thing to do. Since then, I've stopped blogging, but I still need a place to showcase
+things that I'm learning. I fully believe in social networking, but I like owning my content. I've been highly focused in Security, Parenting, Photography, and Education. For those topics, I feel longer
+form thoughts should be blogged about.
+
+As a learning experience, I've implemented a new content management system. This time I'm using Jekyll built on Ruby. Wordpress was way too
+complicated for me. I'm tired of securing Wordpress, updating themes and plugins, and it is filled with javascript. The next few
+entries will explain what went into all of this. 
+
+For now, there is little to see, but I hope to populate the site with what I'm working on.
+

@@ -1,0 +1,41 @@
+---
+layout: page
+title: Categories
+subtitle:  <a href="/archive">Archives</a> &nbsp;&nbsp;•&nbsp;&nbsp;<a href="/categories">Categories</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="/tags">Tags</a> 
+permalink: /categories/
+
+---
+
+
+<section class="post-tags">
+    {% assign category_list = site.categories %}
+    
+    {% if category_list.first[0] == null %}
+    {% for category in category_list %}
+    <a class="post-tags-item" href="#{{ category | slugify }}">{{ category }}</a>
+    {% endfor %}
+    {% else %}
+    {% for category in category_list %}
+    <a class="post-tags-item" href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
+    {% endfor %}
+    {% endif %}
+    
+    {% assign category_list = nil %}
+
+</section>
+<hr>
+
+{% for category in site.categories %}
+{% capture cat %}{{ category | first }}{% endcapture %}
+
+<h2>{{ cat | capitalize }} - {{ category[1].size }} Posts</h2> 
+	<ul>
+	{% for post in site.categories[cat] %}
+
+	  <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	     <span class="date"> - {{ post.date | date: '%B %d, %Y'  }}</span></p>
+	{% endfor %}
+	</ul>
+
+{% endfor %}
+
