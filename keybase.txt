@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/chaimcohen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chaimtime.com
+  * I am chaimcohen (https://keybase.io/chaimcohen) on keybase.
+  * I have a public key with fingerprint 3BBB 119C 528F F911 6332  CF76 318B E105 1D8E 3BC6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101189991e0d6255016b6c2c0211ec09771d39ba018965780880ff1769a84c8d49c0a",
+            "fingerprint": "3bbb119c528ff9116332cf76318be1051d8e3bc6",
+            "host": "keybase.io",
+            "key_id": "318be1051d8e3bc6",
+            "kid": "0101189991e0d6255016b6c2c0211ec09771d39ba018965780880ff1769a84c8d49c0a",
+            "uid": "972b22d222252a88d1dab319a6b16700",
+            "username": "chaimcohen"
+        },
+        "revoke": {
+            "sig_ids": [
+                "600ca6c0745e248b083285d0f6fb82520827562df3ef885fddf9e2548e682d5b0f"
+            ]
+        },
+        "service": {
+            "hostname": "chaimtime.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467137235,
+    "expire_in": 157680000,
+    "prev": "47d9ec96d8313812882b5064701951878ca18d014c82b8e5d0955c8732f2c243",
+    "seqno": 28,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYXkAR8AP8As0g52I1Q4jnnLv33nPXLFM0BINRJmmG2O1+nLt7B9i7
+7C6ofIw2kk6IFoGZLMxmlEM2joOIAwPlTimiNkSZojYoRkVmjkwoBI3WWaZm+tHP
+3j/n63mf93mf8749O8wUEQL33poev39ld8jF27Ipx901UMbIhrqdsZQx+WRqIQUq
+8Xht+brKWBgAAYRYFEVIgMojjgOQl3kFKQBBSBQgCgJUWVGWAEXxnIABxkDToMCL
+EjYrWDWLCpCYZEbTnXbidrl1p5fSsrIsQygqHMKaJkLIsyxSNIFnIZYJBBxUMWFl
+haeJDsMTzKDiZMlDUnSD3tGDbUref+D/Z93FU3SigGSEVESDQxLGKlQlmYWixMuQ
+FwAIAj3E7ZQKCUUrDkkvVAwHcTIVyYyblBj5JOisR7dT2R7GksvwACgSrwDBzBFk
+xjLALMKcCjRekzGtATASOB6pGks0jDlNVTWRIM6MCY+RyslAY/IoN61ZoitT5EGf
+/l3fqxeSFMUopNJcbsNrKEYBfXJ4vS6PJSjLu73dFQRvJbLtbxqbrDtV+k80pYS4
+PbrhZCyQQpUgF92aeQGyAmK5ZIZsc+luYtODCE7gMaARLERKKKVZUEWiiLyKWchi
+iDBGMgd4swCgyEEsYEWCWAWQ+oxkTGjbIscpWGCRhhRkZplgY0VOg7EgTIVKdspJ
+vXNK3mI3YSqi3gx9fJopJMIUPj00OMGmqMiYf8Z68broPx1Hb77f+Marm8pR5s6C
+6sreeWA8Hc4OzFlRvv36/axFq6usjyXltVx6OjGq8cfM0M1LW1YII+qOz9a23Y0c
+O33GlxtbvKqn7tqqNmeC/lKptyetaORbiz11zbL0hp/71gbSa0vvJeX195zYd/XF
+8c1lbVtcomvWsH20o+1QX0zrr0mBvrTz3PO7UOuMCw3l2TO7KufGplze/UHvgT2+
+GY5Z66KyUPzLYe2fhi35Paf83d097JepCRmXtl6t/75zo16emt0ZuXKyfWFB7Laa
+h7mZxtCRpw48e6nuxlfZT4Qcs//gW5BhCqsf/O21C0nLkweOCXHWL/T4i+Fpz5XG
+XKm6NhzbvKfDD+Zbq4qXfYcO+iZNH52In75nsqb4+N6x7sMLjFrr8XOPqq90xGY1
+WiJLDu3c4Q+POzmx5eaHv2zIGy3PLMyyT8s6lViz3PWk1hx9OC/hQdV7UQHn3dsj
+1vk3chvM/qa2OycDsa1HJ0D0w/GB5LbBkfzU3vvLp/E/9c6bzDwib9iUp4YOvhDI
+CF8TPbDYMjZTrxt9a9Rfsd97cLjVPWqzjvodTRu7rw+Zl9Z/vD5s7qO09EpsPT1n
+kTcn4ezlOz6hL3ni85Gqrc/U+uv6+3fFfVM0lPVHV2mEbbUvsbRpxZKW6vhX8MRl
+zl/9OnNusKj5zJnuT3K/rg4Ud66/V3ZrB7vw/Kl3Hpxd9Bc=
+=VPyw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chaimcohen
+
+==================================================================
+
