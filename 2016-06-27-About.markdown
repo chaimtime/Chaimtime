@@ -1,0 +1,50 @@
+---
+layout: post
+title: "About"
+subtitle: "The Site"
+Date: 2016-06-28
+author: Chaim
+category: management
+tags: management hosting 
+finished: false
+---
+
+
+# About Me
+
+
+My name is Chaim Cohen [Pronunciation: Silent C, rhymes with Time], hence the name Chaimtime. By day I am an awesome computer science teacher, teaching students
+how awesome programming and computers really are. When I'm not getting paid, I've been focusing on
+computer security, internet of things, educational technology, and parenting. 
+
+# The Site
+
+What really started this was the fact I couldn't get a TLS certificate on my current hosting plan. If you believe the conspiracy theory, since they sold
+TLS certs, they wouldn't integrate with [Let's Encrypt]. I also was being charged way too much by my old host. I really just wanted a landing page, with the
+ability to blog every once in a while. Here were my requirements.
+- Speed - Being able to write and publish a post fast
+- Security - I'm tired of trying to secure wordpress
+- Load Times- Black text on a white background shouldn't take that long to load
+- Learning - I want to learn how all of this works.
+	
+I don't know why [Jekyll] jumped out at me. I was about to modify my old wordpress site, and call it a day. I guess I saw how fast it loaded, and figured
+I could do this as well.
+
+
+I heavily edited [Nice Blog] theme. [Jekyll] does not have a ton of themes to choose from. They were either too plain, or too blog heavy. 
+
+# Hosting
+
+My requirement for hosting was that I needed to host multiple sites. I run other sites for family members, and they needed a place. Total, all of my websites
+maybe gets 20 hits a day. The problem is that hosting multiple websites puts you in the "expensive" tier of hosting plans. I really wished I could host the site on 
+my home server. My friend Tom mentioned [Digital Ocean]. For $5 month, I got everything I needed, plus fantastic tutorials and learning experiences.
+
+
+
+
+
+[Jekyll]: <https://jekyllrb.com/>
+[Let's Encrypt]: <https://letsencrypt.org>
+[Nice Blog]: <http://jekyllthemes.org/themes/nice-blog/>
+[Digital Ocean]: <https://m.do.co/c/d213df149b40>
+ 
