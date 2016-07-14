@@ -4,20 +4,25 @@ title: "Welcome to Chaimtime"
 subtitle: "Version 7.0"
 Date: 2016-06-24
 author: Chaim
-category: Management
-tags: blog management security education
+category: management
+tags: management 
 finished: false
 ---
 
 
 
 I started Chaimtime in 2002 as a blog. It was the new thing to do. Since then, I've stopped blogging, but I still need a place to showcase
-things that I'm learning. I fully believe in social networking, but I like owning my content. I've been highly focused in Security, Parenting, Photography, and Education. For those topics, I feel longer
-form thoughts should be blogged about.
+things that I'm learning. I think the reason why I didn't blog was because it was too hard. It still is too hard to come up
+with great content all the time. I'm going to use this site as a learning experience for everything I'm learning. Moving hosts, content management systems, learning more about security, encrypting the site,
+worrying about speed, and learning markdown are all things over the past few months I have really taken an interest in. I fully believe in social networking, but I like owning more of the long form content. The idea of politics in search 
+bother me, and to convey information should be based on who has the deeper pockets.
 
 As a learning experience, I've implemented a new content management system. This time I'm using Jekyll built on Ruby. Wordpress was way too
-complicated for me. I'm tired of securing Wordpress, updating themes and plugins, and it is filled with javascript. The next few
-entries will explain what went into all of this. 
+complicated for me. Wordpress is awesome if you want to focus on blogging, and management. I'm tired of securing Wordpress, updating themes and plugins, and it is filled with javascript.  he next few
+entries will explain what went into all of this. It is just too much to deal with. 
 
-For now, there is little to see, but I hope to populate the site with what I'm working on.
+I'm still debating on how to present the site. I really like the Buzzfeed approach where the site is secondary to the individual articles. As you can
+see from the site, it is very minimal. The home page is supposed to be a landing page where you can find more about me. Like I said, I'm blogging less, so I want to
+direct people to where I am more active.
+
 

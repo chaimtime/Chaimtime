@@ -1,26 +1,13 @@
-Welcome to my 
-=======
 
-I think many blog themes are over designed, so I created this one. 
+Welcome to my Blog. This is a learning experience for me.
+I forked two different themes together.
+Main Theme:  Nice Blog  (https://github.com/itisbenjamin/Nice_Blog) 
 
-Just for using, not showing off.
+Authors:
+Main Theme: [![Twitter Follow](https://img.shields.io/twitter/follow/itisbenjamin1.svg?style=social)](https://twitter.com/itisbenjamin1)
 
-Nice Blog  [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/itisbenjamin/Nice_Blog)  [![release](https://img.shields.io/github/release/itisbenjamin/Nice_Blog.svg)](https://github.com/itisbenjamin/Nice_Blog/releases)
-========
+Most of my code changes came from my friend:[![Twitter Follow](https://img.shields.io/twitter/follow/samurailink3.svg?style=social)](https://twitter.com/samurailink3)
 
-A Simple Jekyll Blog Theme.
-
-
-Author  [![Twitter](https://img.shields.io/badge/awesome-Ben-66BAB7.svg)](https://twitter.com/itisbenjamin1)
-======
-
-A normal person just wanna see this world.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/itisbenjamin1.svg?style=social)](https://twitter.com/itisbenjamin1)
-
+I'm completely learning, and have no idea what I'm doing.
 License  [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/itisbenjamin/Nice_Blog/blob/master/LICENSE)
-======
-
 Use MIT License.
-
-

@@ -64,7 +64,7 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
-    color: #666;
+    color: #4D7DDD;
     letter-spacing: 1px;
 }
 
@@ -94,8 +94,9 @@ h6 {
  */
 
 a {
+
     color: #4D7DDD;
-    text-decoration: none;
+    text-decoration: underline;
     transition: border .5s;
 }
 
@@ -113,7 +114,7 @@ a:hover {
 .link {
     padding: 2px;
     color: #4D7DDD;
-    text-decoration: none;
+    text-decoration: underline;
     transition: background-color .7s;
 }
 
