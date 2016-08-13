@@ -5,7 +5,7 @@ subtitle: ""
 Date: 2016-08-12
 author: Chaim
 category: Security
-tags: Security, Privacy, Encryption
+tags: Security Privacy Encryption
 finished: false
 ---
 This is my plea to get you to use [Signal], an encrypted text message platform. At this point SMS is completely insecure. Even two factor messages, the messages your bank sends with a special code is no longer recommended by [NIST]. Instead of convincing you to switch to a data type messenger like [WhatsApp], I'm going to ask just to install a new SMS app. Basically, for those on Signal, you will be encrypted. Everyone else will just be a standard SMS. The goal is to get more people on Signal.
@@ -24,7 +24,7 @@ I've put all the stock messenger apps I could find. If you look (not even closel
 # Screens of Other Apps
 **AOSP Messenger:** The original messenger app. When Android was conceived, this is the default app that was built in. Most manufacturers initially never changed it.
 Once they realized how much time people spent in the app, they wrote their own app.
-<img src="/img/sms/AOSP.png" height="500" width="320">
+<img src="/img/sms/AOSP.jpg" height="500" width="320">
 <br>
 **Google Messenger:** Follows [Material Design] guidelines. Google has had problems with this adoption. They recently made
 this the default on their phones, removing the old ASOP messenger. This is what I was using until Signal came along. It is clean,
@@ -56,7 +56,7 @@ to its iOS counterpart. If you are using WhatsApp, then just install Signal alre
 ## Finally Signal
 **Signal:** The app follows all current design specifications. Has both sent and delivered (not read) receipts. It looks
 the same as the other SMS apps, but has the ability to send encrypted messages to other Signal users.
-<img src="/img/sms/Signal.jpg" height="500" width="320">
+<img src="/img/sms/signal.jpg" height="500" width="320">
 
 
 
