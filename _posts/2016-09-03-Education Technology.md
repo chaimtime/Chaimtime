@@ -38,9 +38,7 @@ A school should have an educational technology policy that states, which social 
 At R00tz, the kids security conference at Defcon, I spoke about the violations of student's privacy, and some ways to mitigate them. I told students to be proactive, vocal, and passionate about their right to privacy. I did tell them to not call their teachers out personally, but to speak to them in an adult tone, privately. Most students have never learned what is appropriate behavior online. I integrate appropriate online behavior, but other than some infographics, or a Friday discussion, there is no formal course that teaches digital citizenry (courses are coming, but not here yet).
 
 You can see my video here:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=myKoIsQyrYs
-" target="_blank"><img src="http://img.youtube.com/vi/myKoIsQyrYs/0.jpg" 
-alt="Chaim at R00tz" width="240" height="180" border="10" /></a>
+[![Chaim at R00tz](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=myKoIsQyrYs)
 
 As we start the new year, please stop reading the blog posts of teachers who had some success using some esoteric app that didn't have student privacy in mind. Someone who has never taught probably created the app, without thinking it through first. Use your many years of teaching experience to figure out if this is the best for your students. 
 
