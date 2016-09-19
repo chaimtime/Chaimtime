@@ -35,7 +35,12 @@ Each teacher thinks their learning management system or ed tech is the best out 
 
 A school should have an educational technology policy that states, which social networks are allowed. A good school should probably say, email students only, or some approved Learning Management System. Students are considered minors, and with that come rules that dictate what information can and cannot be given away. The above social networks are not compliant, but they never claimed to be compliant. As we have seen nothing is unhackable. Not that students hold lots of information, but why should put students in a situation. As a teacher, anything I communicate with students, I want a backup. I never want to be put in a position where there is no written evidence of all communication. In addition to protecting myself, I want to protect my students. 
          
-At R00tz, the kids village at Defcon, I spoke about the violations of student's privacy, and some ways to mitigate them. I told students to be proactive, vocal, and passionate about their right to privacy. I did tell them to not call their teachers out personally, but to speak to them in an adult tone, privately. Most students have never learned what is appropriate behavior online. I integrate appropriate online behavior, but other than some infographics, or a Friday discussion, there is no formal course that teaches digital citizenry (courses are coming, but not here yet).
+At R00tz, the kids security conference at Defcon, I spoke about the violations of student's privacy, and some ways to mitigate them. I told students to be proactive, vocal, and passionate about their right to privacy. I did tell them to not call their teachers out personally, but to speak to them in an adult tone, privately. Most students have never learned what is appropriate behavior online. I integrate appropriate online behavior, but other than some infographics, or a Friday discussion, there is no formal course that teaches digital citizenry (courses are coming, but not here yet).
+
+You can see my video here:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=myKoIsQyrYs
+" target="_blank"><img src="http://img.youtube.com/vi/myKoIsQyrYs/0.jpg" 
+alt="Chaim at R00tz" width="240" height="180" border="10" /></a>
 
 As we start the new year, please stop reading the blog posts of teachers who had some success using some esoteric app that didn't have student privacy in mind. Someone who has never taught probably created the app, without thinking it through first. Use your many years of teaching experience to figure out if this is the best for your students. 
 
